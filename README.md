@@ -1,2 +1,2 @@
-# Text-Mining
-This repo includes projects based on natural language processing
+# Text Mining
+This repo includes projects based on text mining
